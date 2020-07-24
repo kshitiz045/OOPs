@@ -1,4 +1,4 @@
-// Java program to explain the topic of final keyword
+// Java program to explain the topic of super keyword
 
 class Animal
 {
