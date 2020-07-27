@@ -8,7 +8,7 @@ class Static_Method
 
 	static void change() //static method 
 	{
-		college = "kp";
+		college = "kpl";
 	}
 
 	Static_Method(int r , String n)
